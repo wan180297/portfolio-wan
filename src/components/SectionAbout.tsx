@@ -4,7 +4,7 @@ export const SectionAbout = () => {
             <div>
                 <img src="/assets/minhafoto.png" alt="" className="h-full" />
             </div>
-            <p className="text-sm sm:text-4xl/10 p-4 bg-green-800 rounded-md">
+            <p className="text-sm sm:text-4xl/10 p-4 bg-green-800 rounded-md text-white">
                 "Meu nome é Wanderson Duarte, e depois de anos trabalhando com engenharia
                 civil, descobri na programação uma nova forma de construir — agora,
                 ideias e experiências digitais. Sou organizado, comprometido e

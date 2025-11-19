@@ -10,7 +10,7 @@ function Home() {
       <Header/>
       <SectionAbout/>
       <div className="flex justify-center mt-4 mb-4">
-        <h1 className="text-lg sm:text-2xl p-3 bg-green-700 rounded-md">Projetos</h1>
+        <h1 className="text-lg sm:text-2xl p-3 bg-green-700 rounded-md text-white">Projetos</h1>
       </div>
       <Projects/>
       <Footer/>
